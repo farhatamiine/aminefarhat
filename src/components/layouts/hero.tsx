@@ -4,7 +4,7 @@ import { Button } from "../ui/button";
 export default function Hero() {
   return (
     <div className="w-full h-screen flex flex-col space-y-8 items-center justify-center">
-      <h2 className="text-4xl font-bold">Hi ✌️, I’m Amine Farhat</h2>
+      <h2 className="text-4xl font-bold">Hi ✌️, I&apos;m Amine Farhat</h2>
       <p className="text-base font-light">
         I'm a{" "}
         <span className="font-bold underline underline-offset-2">
