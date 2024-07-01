@@ -6,7 +6,7 @@ export default function Hero() {
     <div className="w-full h-screen flex flex-col space-y-8 items-center justify-center">
       <h2 className="text-4xl font-bold">Hi ✌️, I&apos;m Amine Farhat</h2>
       <p className="text-base font-light">
-        I'm a{" "}
+        I&apos;m a{" "}
         <span className="font-bold underline underline-offset-2">
           software engineer
         </span>{" "}
